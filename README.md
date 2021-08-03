@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @betoFlores58, Jr. Mobile Developer.
+- 👋 Hi, I’m @betoFlores58, Mobile Developer Jr.
 - 👀 I’m interested in mobile and web development.
 - 🌱 I’m currently learning and improving react native and angular skills.
 - 💞️ I’m looking to collaborate on any interesting project focused on mobile.
